@@ -16,7 +16,7 @@
 #indieweb @kylewmahan: wordpress is a convenient unauthenticated shell that happens to have a blogging tool attached
 #indieweb @kylewmahan: I worked on http://feverdream.herokuapp.com/ which lets you post to wordpress, blogger, tumblr with mciropub
 #indieweb @kevinmarks: I was able to post to my tumblr (Which I forgot I had) with feverdream
-#indieweb @kylewmahan: I have been working on brid.gy support for known and tumblr integration
+#indieweb @kylewmahan: I have been working on brid.gy support for better known integration
 #indieweb @kylewmahan: brid.gy doesn't currently give enough feedback for known users so I'm working on this
 #indieweb @webrecorder_io: I work on a tool called webrecorder.io to build a new archiving service for everyone to use
 #indieweb @webrecorder_io: beta.webrecorder.io is an updated version of the archiving software
